@@ -1,0 +1,100 @@
+[29-Dec-2023 07:44:30 UTC] PHP Warning:  Undefined variable $first_name in /home3/dhanihja/public_html/mail.php on line 50
+[29-Dec-2023 07:51:34 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/dhanihja/public_html/mail.php:23
+Stack trace:
+#0 /home3/dhanihja/public_html/mail.php(23): file_get_contents('')
+#1 {main}
+  thrown in /home3/dhanihja/public_html/mail.php on line 23
+[29-Dec-2023 07:52:10 UTC] PHP Warning:  Undefined variable $first_name in /home3/dhanihja/public_html/mail.php on line 50
+[29-Dec-2023 07:57:19 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home3/dhanihja/public_html/mail.php on line 51
+[29-Dec-2023 07:59:49 UTC] PHP Warning:  Undefined variable $first_name in /home3/dhanihja/public_html/mail.php on line 51
+[29-Dec-2023 08:34:23 UTC] PHP Warning:  Undefined variable $first_name in /home3/dhanihja/public_html/mail.php on line 51
+[29-Dec-2023 08:34:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dhanihja/public_html/mail.php:51) in /home3/dhanihja/public_html/mail.php on line 55
+[29-Dec-2023 09:05:50 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home3/dhanihja/public_html/mail.php on line 58
+[29-Dec-2023 09:06:56 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home3/dhanihja/public_html/mail.php on line 59
+[29-Dec-2023 09:10:11 UTC] PHP Warning:  Undefined variable $first_name in /home3/dhanihja/public_html/mail.php on line 51
+[29-Dec-2023 09:10:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dhanihja/public_html/mail.php:51) in /home3/dhanihja/public_html/mail.php on line 55
+[29-Dec-2023 09:12:49 UTC] PHP Warning:  Undefined variable $first_name in /home3/dhanihja/public_html/mail.php on line 51
+[29-Dec-2023 09:12:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dhanihja/public_html/mail.php:51) in /home3/dhanihja/public_html/mail.php on line 55
+[29-Dec-2023 09:21:29 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/dhanihja/public_html/mail.php:23
+Stack trace:
+#0 /home3/dhanihja/public_html/mail.php(23): file_get_contents('')
+#1 {main}
+  thrown in /home3/dhanihja/public_html/mail.php on line 23
+[29-Dec-2023 09:22:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dhanihja/public_html/mail.php:51) in /home3/dhanihja/public_html/mail.php on line 53
+[29-Dec-2023 09:30:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dhanihja/public_html/mail.php:51) in /home3/dhanihja/public_html/mail.php on line 53
+[29-Dec-2023 09:30:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dhanihja/public_html/mail.php:51) in /home3/dhanihja/public_html/mail.php on line 53
+[29-Dec-2023 09:31:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dhanihja/public_html/mail.php:51) in /home3/dhanihja/public_html/mail.php on line 53
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "file" in /home3/dhanihja/public_html/mail.php on line 2
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/dhanihja/public_html/mail.php on line 2
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "file" in /home3/dhanihja/public_html/mail.php on line 3
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/dhanihja/public_html/mail.php on line 3
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "name" in /home3/dhanihja/public_html/mail.php on line 4
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "email" in /home3/dhanihja/public_html/mail.php on line 5
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "phone" in /home3/dhanihja/public_html/mail.php on line 6
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "loan" in /home3/dhanihja/public_html/mail.php on line 7
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "aadhar" in /home3/dhanihja/public_html/mail.php on line 8
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "pan" in /home3/dhanihja/public_html/mail.php on line 9
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "bank" in /home3/dhanihja/public_html/mail.php on line 10
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "account" in /home3/dhanihja/public_html/mail.php on line 11
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "ifsc" in /home3/dhanihja/public_html/mail.php on line 12
+[29-Dec-2023 09:31:23 UTC] PHP Warning:  Undefined array key "message" in /home3/dhanihja/public_html/mail.php on line 13
+[29-Dec-2023 09:31:23 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/dhanihja/public_html/mail.php:23
+Stack trace:
+#0 /home3/dhanihja/public_html/mail.php(23): file_get_contents('')
+#1 {main}
+  thrown in /home3/dhanihja/public_html/mail.php on line 23
+[29-Dec-2023 09:37:20 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/dhanihja/public_html/mail.php:23
+Stack trace:
+#0 /home3/dhanihja/public_html/mail.php(23): file_get_contents('')
+#1 {main}
+  thrown in /home3/dhanihja/public_html/mail.php on line 23
+[29-Dec-2023 10:19:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dhanihja/public_html/mail.php:51) in /home3/dhanihja/public_html/mail.php on line 53
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "file" in /home3/dhanihja/public_html/mail.php on line 2
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/dhanihja/public_html/mail.php on line 2
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "file" in /home3/dhanihja/public_html/mail.php on line 3
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/dhanihja/public_html/mail.php on line 3
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "name" in /home3/dhanihja/public_html/mail.php on line 4
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "email" in /home3/dhanihja/public_html/mail.php on line 5
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "phone" in /home3/dhanihja/public_html/mail.php on line 6
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "loan" in /home3/dhanihja/public_html/mail.php on line 7
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "aadhar" in /home3/dhanihja/public_html/mail.php on line 8
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "pan" in /home3/dhanihja/public_html/mail.php on line 9
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "bank" in /home3/dhanihja/public_html/mail.php on line 10
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "account" in /home3/dhanihja/public_html/mail.php on line 11
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "ifsc" in /home3/dhanihja/public_html/mail.php on line 12
+[29-Dec-2023 11:38:00 UTC] PHP Warning:  Undefined array key "message" in /home3/dhanihja/public_html/mail.php on line 13
+[29-Dec-2023 11:38:00 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/dhanihja/public_html/mail.php:23
+Stack trace:
+#0 /home3/dhanihja/public_html/mail.php(23): file_get_contents('')
+#1 {main}
+  thrown in /home3/dhanihja/public_html/mail.php on line 23
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "file" in /home3/dhanihja/public_html/mail.php on line 2
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/dhanihja/public_html/mail.php on line 2
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "file" in /home3/dhanihja/public_html/mail.php on line 3
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/dhanihja/public_html/mail.php on line 3
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "name" in /home3/dhanihja/public_html/mail.php on line 4
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "email" in /home3/dhanihja/public_html/mail.php on line 5
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "phone" in /home3/dhanihja/public_html/mail.php on line 6
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "loan" in /home3/dhanihja/public_html/mail.php on line 7
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "aadhar" in /home3/dhanihja/public_html/mail.php on line 8
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "pan" in /home3/dhanihja/public_html/mail.php on line 9
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "bank" in /home3/dhanihja/public_html/mail.php on line 10
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "account" in /home3/dhanihja/public_html/mail.php on line 11
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "ifsc" in /home3/dhanihja/public_html/mail.php on line 12
+[29-Dec-2023 11:38:07 UTC] PHP Warning:  Undefined array key "message" in /home3/dhanihja/public_html/mail.php on line 13
+[29-Dec-2023 11:38:07 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/dhanihja/public_html/mail.php:23
+Stack trace:
+#0 /home3/dhanihja/public_html/mail.php(23): file_get_contents('')
+#1 {main}
+  thrown in /home3/dhanihja/public_html/mail.php on line 23
+[29-Dec-2023 11:46:38 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/dhanihja/public_html/mail.php:23
+Stack trace:
+#0 /home3/dhanihja/public_html/mail.php(23): file_get_contents('')
+#1 {main}
+  thrown in /home3/dhanihja/public_html/mail.php on line 23
+[29-Dec-2023 11:47:23 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/dhanihja/public_html/mail.php:23
+Stack trace:
+#0 /home3/dhanihja/public_html/mail.php(23): file_get_contents('')
+#1 {main}
+  thrown in /home3/dhanihja/public_html/mail.php on line 23
+[29-Dec-2023 11:47:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/dhanihja/public_html/mail.php:51) in /home3/dhanihja/public_html/mail.php on line 53
